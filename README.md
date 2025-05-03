@@ -1,1 +1,1 @@
-# Este repositorio cuenta con el código para automatizar el proceso de extracción de datos del RUES utilizando Web-Scrapping con PYTHON
+# Este repositorio cuenta con los códigos realizados en el Área de Analítica y Estudios Económicos para automatizar el proceso de extracción de datos del RUES utilizando Web-Scrapping con PYTHON. Se encuentran diferentes códigos, uno para información financiera, otro para datos de contacto, y otro para datos del representante legal; los cuales se han hecho según la necesidad que ha surgido en el momento de las solicitudes.
